@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JessicaAguirre25/carritodecompras.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/JessicaAguirre25/carritodecompras.git/static/js/main.58da3e30.chunk.js",
+    "main.js.map": "/JessicaAguirre25/carritodecompras.git/static/js/main.58da3e30.chunk.js.map",
+    "runtime-main.js": "/JessicaAguirre25/carritodecompras.git/static/js/runtime-main.91b390d3.js",
+    "runtime-main.js.map": "/JessicaAguirre25/carritodecompras.git/static/js/runtime-main.91b390d3.js.map",
+    "static/css/2.eb5ad911.chunk.css": "/JessicaAguirre25/carritodecompras.git/static/css/2.eb5ad911.chunk.css",
+    "static/js/2.e0c8f009.chunk.js": "/JessicaAguirre25/carritodecompras.git/static/js/2.e0c8f009.chunk.js",
+    "static/js/2.e0c8f009.chunk.js.map": "/JessicaAguirre25/carritodecompras.git/static/js/2.e0c8f009.chunk.js.map",
+    "index.html": "/JessicaAguirre25/carritodecompras.git/index.html",
+    "precache-manifest.4c958583ce1d009737f2ef1a1e87b9d5.js": "/JessicaAguirre25/carritodecompras.git/precache-manifest.4c958583ce1d009737f2ef1a1e87b9d5.js",
+    "service-worker.js": "/JessicaAguirre25/carritodecompras.git/service-worker.js",
+    "static/css/2.eb5ad911.chunk.css.map": "/JessicaAguirre25/carritodecompras.git/static/css/2.eb5ad911.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/JessicaAguirre25/carritodecompras.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e0c8f009.chunk.js.LICENSE.txt": "/JessicaAguirre25/carritodecompras.git/static/js/2.e0c8f009.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/JessicaAguirre25/carritodecompras.git/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b390d3.js",
+    "static/css/2.eb5ad911.chunk.css",
+    "static/js/2.e0c8f009.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.58da3e30.chunk.js"
+  ]
+}
